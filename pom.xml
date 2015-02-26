@@ -117,7 +117,7 @@
 		<id>artifactory-snapshot</id>
 		<releases><enabled>false</enabled></releases>
 		<name>Europeana Artifactory Snapshot</name>
-		<url>http://artifactory.eanadev.org/artifactory/libs-snapshots-local</url>
+		<url>http://artifactory.eanadev.org/artifactory/libs-snapshot-local</url>
 	</repository>
 	</repositories>
 </project>
