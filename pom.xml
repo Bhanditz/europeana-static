@@ -112,4 +112,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	<repositories>
+	<repository>
+		<id>artifactory-snapshot</id>
+		<releases><enabled>false</enabled></releases>
+		<name>Europeana Artifactory Snapshot</name>
+		<url>http://artifactory.eanadev.org/artifactory/libs-snapshots-local</url>
+	</repository>
+	</repositories>
 </project>
