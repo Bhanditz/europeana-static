@@ -1,3 +1,7 @@
+**This project is not maintained anymore**
+
+---
+
 # europeana-static
 
 1. Copy src/main/resources/template-context.xml src/main/resources/context.xml 
